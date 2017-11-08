@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: mhbauer/webapp
+        image: jzaccone/webapp
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
