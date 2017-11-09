@@ -27,8 +27,8 @@ After you have an account setup, login to the console. In the upper right, Manag
 
 5. Log into the Bluemix CLI with username and password
     ```bash
-    $ bx login -a https://api.ng.bluemix.net
-    API endpoint: https://api.ng.bluemix.net
+    $ bx login -a https://api.eu-de.bluemix.net
+    API endpoint: https://api.eu-de.bluemix.net
 
     Email> myemail@email.com
 
